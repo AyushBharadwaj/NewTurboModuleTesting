@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # new-turbo-module-testing
 
 Testing
@@ -35,4 +34,3 @@ Made with [create-react-native-library](https://github.com/callstack/react-nativ
 =======
 # NewTurboModuleTesting
 Testing
->>>>>>> 2be03104c65d003c3ef53fb7850fca9192ad2e65
